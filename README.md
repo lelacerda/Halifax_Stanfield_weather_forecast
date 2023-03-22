@@ -1,4 +1,4 @@
-# Capstone Project: Halifax Stanfield Weather Forecast
+# Capstone Project: Halifax Stanfield Airport Weather Forecast
 ### Objective: 
 Make hourly predictions of the weather conditions based on meteorological parameters.
 
