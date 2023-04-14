@@ -15,6 +15,6 @@ The data source for this project is the [Government of Canada website](https://c
 ___________________________________________________________________________________
 
 ## Load, EDA and clean data
-The first part of this project has been done: [data loaded, EDA and cleaning] (https://github.com/lelacerda/Halifax_Weather_Evolution/blob/main/Weather_HDD_1stDraft.ipynb).
+The first part of this project (topics 1,2 and 3) has been done and can be seen on this [link](https://github.com/lelacerda/Halifax_Weather_Evolution/blob/main/Weather_HDD_1stDraft.ipynb).
 
 
