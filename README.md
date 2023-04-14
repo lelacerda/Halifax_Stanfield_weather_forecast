@@ -1,4 +1,4 @@
-# Capstone Project: Halifax Stanfield Airport Weather Forecast
+# Capstone Project: Weather evolution around Halifax area - from 1960 to 2023
 ## Objective: 
 Make hourly predictions of the weather conditions based on meteorological parameters.
 
