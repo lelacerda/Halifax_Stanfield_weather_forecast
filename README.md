@@ -12,5 +12,9 @@ The data source for this project is the [Government of Canada website](https://c
  4) Show climate evolution using graphs
  5) Build a regression model to predict future weather trends using Pycaret
  6) Build a regressiob model using scikit-Learn
+___________________________________________________________________________________
+
+## Load, EDA and clean data
+The first part of this project has been done: [data loaded, EDA and cleaning]().
 
 
