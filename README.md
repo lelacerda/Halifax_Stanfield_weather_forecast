@@ -1,6 +1,6 @@
 # Capstone Project: Weather evolution around Halifax area - from 1960 to 2023
 ## Objective: 
-Evaluate how weather changed along the years around Halifax area and how this is related to head demand for buildings. 
+Evaluate how weather changed along the years around Halifax area and how this is related to heat demand for buildings. 
 
 ## Data:
 The data source for this project is the [Government of Canada website](https://climate.weather.gc.ca/historical_data/search_historic_data_stations_e.html?searchType=stnName&timeframe=1&txtStationName=Halifax&searchMethod=contains&optLimit=yearRange&StartYear=1840&EndYear=2023&Year=2023&Month=3&Day=21&selRowPerPage=25)
