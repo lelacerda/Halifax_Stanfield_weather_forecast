@@ -17,4 +17,10 @@ ________________________________________________________________________________
 ## Load, EDA and clean data
 The first part of this project (topics 1,2 and 3) has been done and can be seen on this [link](https://github.com/lelacerda/Halifax_Weather_Evolution/blob/main/Weather_HDD_1stDraft.ipynb).
 
+_____________________________________________________________________________________
+
+## The complete Capstone project can be found [here]().
+The main finding is that there is a climatic change happening around Halifax area and this can be seen from the increase in temperature observed along the years. As a consequence, it can also be seen that the required heating (i.e fuel comsumption) for the buildings has been reduced as the mean temperatures have been increasing.
+
+
 
